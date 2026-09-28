@@ -1,0 +1,6 @@
+paper_id,n_participants,design,age_mean
+paper01,6,ABC single-case experimental design,9.83
+paper03,5,multiple-baseline single-case experimental design,16.2
+paper05,16,"single-case, non-concurrent multiple baseline design",14.19
+paper07,8,ABAB withdrawal/reversal design,14.67
+paper10,6,single-case AB design,12.5
