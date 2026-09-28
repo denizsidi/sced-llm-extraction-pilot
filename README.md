@@ -124,6 +124,9 @@ Article PDFs are not included in the repository.
 
 ## Project Structure
 
+## Project Structure
+
+```text
 sced-llm-extraction-pilot/
 ├── README.md
 ├── extract.py
