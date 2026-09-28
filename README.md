@@ -124,18 +124,13 @@ Article PDFs are not included in the repository.
 
 ## Project Structure
 
-```text
-sced_pilot_5papers/
-├── data/
-│   └── manual_coding.csv
-├── papers/
-│   └── README.txt
-├── results/
-│   ├── llm_output.csv
-│   ├── comparison.csv
-│   └── summary.csv
+sced-llm-extraction-pilot/
+├── README.md
 ├── extract.py
 ├── evaluate.py
 ├── summarise.py
 ├── requirements.txt
-└── README.md
+├── manual_coding.csv
+├── llm_output.csv
+├── comparison.csv
+└── summary.csv
